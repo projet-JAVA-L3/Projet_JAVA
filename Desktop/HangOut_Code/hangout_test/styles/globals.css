@@ -1,0 +1,16 @@
+/* Styles globaux */
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  padding: 0;
+}
+
+h1{
+  color: rgb(0, 0, 0);
+}
+
+h2{
+  color: white;
+}

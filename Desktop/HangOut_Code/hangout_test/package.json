@@ -1,0 +1,27 @@
+{
+  "name": "hangout-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@date-io/date-fns": "^1.3.13",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "autosuggest-highlight": "^3.1.1",
+    "axios": "^0.21.1",
+    "clsx": "^1.1.1",
+    "date-fns": "^2.19.0",
+    "mongodb": "^3.6.5",
+    "next": "10.0.9",
+    "prop-types": "^15.7.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-responsive-modal": "^6.0.1",
+    "styled-components": "^5.2.1"
+  }
+}
